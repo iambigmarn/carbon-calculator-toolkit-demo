@@ -1,0 +1,20 @@
+{
+  "name": "carbon-calculator-mock-api",
+  "version": "1.0.0",
+  "description": "Mock API server for Carbon Calculator Toolkit demo",
+  "main": "mock-api-server.js",
+  "scripts": {
+    "start": "node mock-api-server.js",
+    "dev": "nodemon mock-api-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["carbon", "calculator", "mock", "api"],
+  "author": "ICR-CTSU Demo",
+  "license": "MIT"
+}
