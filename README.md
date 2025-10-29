@@ -288,10 +288,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Developer**: [Your Name]
-**Email**: [your.email@example.com]
-**LinkedIn**: [Your LinkedIn Profile]
-**Portfolio**: [Your Portfolio Website]
+**Developer**: Ibe Chimaraoke Emmanuel
+**Email**: emma.zgtc@gmail.com
+**LinkedIn**: https://ng.linkedin.com/in/ibe-chimaraoke-b44340374
 
 ---
 
