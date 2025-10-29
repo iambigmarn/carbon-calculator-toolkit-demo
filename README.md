@@ -306,8 +306,6 @@ This project demonstrates:
 ✅ **DevOps Awareness**: Git, deployment strategies, environment configuration  
 ✅ **Documentation**: Comprehensive README and code documentation  
 
-**Perfect for**: Application Developer roles requiring C#/.NET, MS-SQL, and modern web development skills.
-
 ---
 
-*Built with ❤️ for the Carbon Calculator Toolkit position*
+*Built with ❤️ for the Institute of Cancer Research ICR (Carbon Calculator Toolkit)*
